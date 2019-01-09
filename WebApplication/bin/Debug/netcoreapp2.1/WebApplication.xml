@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication.Controllers.UserController.Get">
+            <summary>
+            List all public gists sorted by most recently updated to least recently updated.
+            </summary>
+        </member>
+        <member name="M:WebApplication.Controllers.UserController.Get(System.Int32)">
+            <summary>
+            Looks up some user by ID.
+            </summary>
+            <param name="id">The ID of the user.</param>
+        </member>
+    </members>
+</doc>
